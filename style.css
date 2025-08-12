@@ -37,11 +37,13 @@ body{
     font-size: 15px;
     color: hsl(220, 15%, 55%);
 }
-#lowerPart h3{
-color: #000000b5;
+#lowerPart h1{
+    font-size: 20px;
+    color: #000000ad;
 }
 
 #lowerPart .text{
     margin: 10px 0;
     padding: 0 10px;
+
 }
